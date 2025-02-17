@@ -1,0 +1,17 @@
+# Diretório de build do Cargo
+target/
+
+# Dependências externas compiladas
+Cargo.lock
+
+# Binários gerados
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos temporários de editores
+*.swp
+*.swo
+.idea/
+.vscode/
